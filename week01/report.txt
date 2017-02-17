@@ -1,0 +1,2 @@
+Try using GIT for real (Push, Pull tapi belum branch dan merge sayangnya)
+Learn and try some CLI
