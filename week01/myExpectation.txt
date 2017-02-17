@@ -1,1 +1,4 @@
-ahmad_elang
+#Ostutorial
+
+EKspetasi saya adalah agar terlihat seperti programmer
+dan jago menggunakan CLI dan GIT
