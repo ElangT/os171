@@ -1,0 +1,29 @@
+-----------------------------------------
+RANKING01 ULASAN PESERTA OS 2017-1
+-----------------------------------------
+01. [W01-015] 400 http://tugas-os.blogspot.co.id/p/ulasan-2.html
+02. [W01-017] 390 https://os-nurintanalatas.blogspot.co.id/2017/05/ulasan-2.html
+03. [W01-038] 362 http://mizzuddinsyamil.blogspot.co.id/2017/05/ulasan-2.html
+04. [W01-002] 359 https://albertostevanusos.blogspot.co.id/p/ulasan1.html
+05. [W01-016] 340 http://nabilahzhafira.blogspot.co.id/2017/05/ulasan-1-why-use-open-source-software.html
+06. [W01-037] 336 http://mithaaw.blogspot.co.id/2017/05/ulasan-2-free-software.html
+07. [W01-029] 336 http://faizrefano.blogspot.com/2017/05/ulasan-1-richard-stallman-free-software.html
+08. [W01-014] 330 https://henlogger.blogspot.co.id/2017/05/what-is-api-application-programming.html
+09. [W01-008] 328 http://fiersome.blogspot.co.id/2017/05/ulasan1.html
+10. [W01-028] 321 https://budiwahyuherlenadita.blogspot.co.id/2017/05/ulasan2-week01-operatingsystemstructure.html
+11. [W01-026] 320 http://fajarbardan-os.blogspot.co.id/2017/05/ulasan-2.html
+12. [W01-035] 318 http://yosuabisma.blogspot.co.id/2017/05/ulasan-1-copyright.html
+13. [W01-022] 318 http://ilyasf-os.blogspot.com/2017/05/ulasan-1-week-1-basic-unix-commands.html
+14. [W01-027] 310 https://makbarsetiadi.blogspot.co.id/2017/05/ulasan-1-gpl-lgpl-bsd-mit-eula-madness.html
+15. [W01-031] 310 http://rahmatchaniago28.blogspot.co.id/2017/05/ulasan-2-system-boot.html
+16. [W01-033] 310 http://belajarosseru.blogspot.co.id/2017/05/hki-hak-kekayan-intelektual.html
+17. [W01-020] 307 http://ratriasd.blogspot.co.id/2017/05/ulasan-2-cryptography.html
+18. [W01-018] 306 http://alvinabyanos1617.blogspot.co.id/2017/05/ulasan-1-open-source-basics.html
+19. [W01-007] 305 https://rifkarnf.blogspot.co.id/2017/05/ulasan-1.html
+20. [W01-010] 300 http://najwastrh.blogspot.co.id/2017/05/ulasan-2.html
+-------------------------------------------
+Oleh (GITHUB):    ElangT
+URL BLOG RANKING: http://os-ahmadelang.blogspot.co.id/2017/05/ranking01.html
+Revisi Pertama:   23 Mei 2017
+Revisi Keenam:    23 Mei 2017
+-------------------------------------------

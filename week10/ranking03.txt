@@ -1,0 +1,29 @@
+-----------------------------------------
+RANKING03 ULASAN PESERTA OS 2017-1
+-----------------------------------------
+01. [W03-024] 400 http://os-fayya.blogspot.co.id/2017/05/ulasan-1-why-system-d.html
+02. [W03-020] 372 http://alvinraih.blogspot.co.id/p/ulasan-2.html
+03. [W03-023] 366 http://stephenjaya99.blogspot.co.id/2017/05/apa-itu-kernel.html
+04. [W03-008] 366 http://olvilorasilalahi.blogspot.co.id/2017/05/ulasan-1-computer-boot-process.html
+05. [W03-030] 355 http://bagasprstyadi.blogspot.co.id/2017/05/ulasan-1-what-is-bios-what-does-it-do.html
+06. [W03-035] 355 http://blogosdfkrisna.blogspot.co.id/2017/05/ulasan-1-multiple-cores.html
+07. [W03-032] 350 https://itskerasan.blogspot.co.id/2017/05/ulasan-1_20.html
+08. [W03-027] 349 http://ardianjati.blogspot.com/2017/05/ulasan-1.html
+09. [W03-005] 347 http://novalinahutabaratos.blogspot.co.id/p/ulasan-1.html
+10. [W03-026] 346 http://fachrurrz.blogspot.co.id/2017/05/ulasan-2-linux-boot-process.html
+11. [W03-010] 346 http://henlogger.blogspot.co.id/2017/05/ssl-certificates-serving-secure-web.html
+12. [W03-038] 341 http://ival97.blogspot.com/2017/05/ulasan2.html
+13. [W03-018] 336 http://disaay.blogspot.co.id/2017/05/ulasan-2-common-bootloader-commands.html
+14. [W03-019] 333 http://tossan-os171.blogspot.com/p/review1.html
+15. [W03-033] 333 http://osmriman.blogspot.com/2017/05/android-power-user-what-is-kernel.html
+16. [W03-028] 332 http://gloryfinessevalery.blogspot.com/2017/05/why-uefi.html
+17. [W03-016] 329 http://anishaevafarida.blogspot.co.id/2017/05/ulasan-2-week-03.html
+18. [W03-011] 323 http://ganigemilaros.blogspot.co.id/2017/05/ulasan-2-boot-proses-linux.html
+19. [W03-029] 323 http://os-harryakbar.blogspot.co.id/2017/05/ulasan2.html
+20. [W03-034] 321 http://filza-valorisantyo.blogspot.co.id/2017/05/ulasan-2.html
+-------------------------------------------
+Oleh (GITHUB):    ElangT
+URL BLOG RANKING: http://os-ahmadelang.blogspot.co.id/2017/05/ranking03.html
+Revisi Pertama:   23 Mei 2017
+Revisi Keenam:    23 Mei 2017
+-------------------------------------------
