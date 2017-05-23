@@ -1,30 +1,4 @@
------------------------------------------
-RANKING07 ULASAN PESERTA OS 2017-1
------------------------------------------
-01. [W07-004] 396 http://akhdanbuchou.blogspot.co.id/2017/05/ulasan-2-what-is-difference-between.html
-02. [W07-017] 393 http://rifkiadrn12.blogspot.com/2017/05/ulasan-2-multiprocessing-vs.html
-03. [W07-007] 390 http://ayunainggolan05.blogspot.co.id/2017/05/ulasan-2-petersons-algorithm-for.html
-04. [W07-016] 386 http://damartanjung.blogspot.co.id/2017/05/deadlocks-in-os.html
-05. [W07-031] 387 http://bagasprstyadi.blogspot.co.id/2017/05/ulasan-2-mutex.html
-06. [W07-027] 382 http://fachrurrz.blogspot.co.id/2017/05/ulasan-1-deadlock-condition.html
-07. [W07-020] 382 http://nenengvelanevita-os.blogspot.co.id/2017/05/ulasan-2-deadlocks.html
-08. [W07-023] 379 http://os-bindrawan.blogspot.co.id/2017/05/ulasan-2-reader-writer-problem.html
-09. [W07-012] 376 http://riandanigitalrst.blogspot.co.id/2017/05/ulasan-1.html
-10. [W07-010] 371 http://monthlyposting.blogspot.co.id/2017/05/ulasan-2-os-types-of-semaphore-values.html
-11. [W07-021] 365 http://oskamal.blogspot.com/2017/05/ulasan-2-process-synchronization.html
-12. [W07-034] 362 http://graceanglc.blogspot.co.id/2017/05/process-synchronization.html
-13. [W07-032] 361 http://rizkyputrimeiliasari.blogspot.co.id/2017/05/ulasan-2-race-condition.html
-14. [W07-018] 361 http://noviantialiasih.blogspot.com/2017/05/ulasan-1.html
-15. [W07-028] 357 http://zahraul.blogspot.co.id/2017/05/ulasan2.html
-16. [W07-005] 355 http://jihanadibah.blogspot.co.id/2017/05/ulasan-1.html
-17. [W07-024] 352 http://poppyrosaline.blogspot.co.id/2017/05/introduction-about-process.html
-18. [W07-011] 348 http://andhikaragilk.blogspot.co.id/2017/05/ulasan-2-os.html
-19. [W07-033] 344 http://yudistramadhan.blogspot.co.id/2017/05/ulasan-2-using-semaphores-to-write.html
-20. [W07-019] 343 http://ammar-shidqi.blogspot.com/2017/05/ulasan-2-week-07.html
-21. [W07-022] 336 http://qurrataayuna.blogspot.co.id/2017/05/ulasan-2-proses-synchronization.html
--------------------------------------------
 Oleh (GITHUB):    ElangT
 URL BLOG RANKING: http://os-ahmadelang.blogspot.co.id/2017/05/ranking07.html
 Revisi Pertama:   23 Mei 2017
-Revisi Keenam:    23 Mei 2017
--------------------------------------------
+Revisi Pertama:    23 Mei 2017

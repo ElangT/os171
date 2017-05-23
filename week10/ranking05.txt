@@ -1,29 +1,4 @@
------------------------------------------
-RANKING05 ULASAN PESERTA OS 2017-1
------------------------------------------
-01. [W05-010] 400 http://andrehendra.blogspot.co.id/2017/05/ulasan-2-os.html
-02. [W05-022] 388 http://os171-sja.blogspot.co.id/2017/05/ulasan-2-os171.html
-03. [W05-012] 388 http://monthlyposting.blogspot.co.id/2017/05/ulasan-1-os-virtual-address-translation.html
-04. [W05-027] 386 http://rama-os171.blogspot.co.id/2017/05/ulasan2-virtual-memory.html
-05. [W05-019] 378 https://os-izzatr.blogspot.co.id/2017/05/ulasan-2-virtual-memory.html
-06. [W05-024] 374 http://riandanigitalrst.blogspot.co.id/2017/05/ulasan-2.html
-07. [W05-005] 374 http://abiabdurrahman.blogspot.co.id/2017/05/ulasan-1-sistem-operasi.html
-08. [W05-020] 369 http://wendydamarwtb.blogspot.co.id/2017/05/different-kinds-of-memory-as-fast-as.html
-09. [W05-003] 367 http://ilmusistemoperasi.blogspot.co.id/2017/05/ulasan-2-memoryallocation.html
-10. [W05-030] 366 http://fmardadi.blogspot.co.id/2017/05/ulasan-1-mutlicores-cpu.html
-11. [W05-031] 365 http://os-adrian.blogspot.co.id/2017/05/ulasan-1-memori-pada-ponsel-android.html
-12. [W05-017] 363 http://osissofun.blogspot.co.id/2017/05/ulasan-1-how-computer-memory-works.html
-13. [W05-004] 359 http://jeffry41os.blogspot.co.id/p/ulasan-2-os.html
-14. [W05-001] 356 http://ratusnos171w0910.blogspot.co.id/2017/05/ulasan-1-week05.html
-15. [W05-026] 356 http://cymon1997-os171.blogspot.co.id/2017/05/ulasan-1-memory-manager.html
-16. [W05-008] 354 http://1606954855-os171.blogspot.co.id/2017/05/ulasan-2.html
-17. [W05-006] 359 http://jessciacia.blogspot.co.id/2017/05/ulasan-1-kernel.html
-18. [W05-015] 335 http://oservinapuspita.blogspot.co.id/2017/05/ulasan-1-virtual-memory.html
-19. [W05-009] 335 http://agnesmls.blogspot.co.id/2017/05/ulasan-2-week05.html
-20. [W05-007] 332 http://laydianti.blogspot.co.id/2017/05/ulasan-1-week05.html
--------------------------------------------
 Oleh (GITHUB):    ElangT
 URL BLOG RANKING: http://os-ahmadelang.blogspot.co.id/2017/05/ranking05.html
 Revisi Pertama:   23 Mei 2017
-Revisi Keenam:    23 Mei 2017
--------------------------------------------
+Revisi Pertama:    23 Mei 2017
